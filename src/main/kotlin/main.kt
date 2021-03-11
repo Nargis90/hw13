@@ -15,17 +15,7 @@
                         println(array[j].toString() + " bolshe chem" + array[j - 1])
                         println(array.contentToString())
 
-                        println("for GIT")
-                        println("for GIT commit")
-                        println("for GIT commit develop")
-                        println("for GIT commit develop")
-
-                        println("for GIT commit develop")
-                        println("for GIT commit develop")
-
-                        println("for GIT commit develop")
-
-
+                      
 
 
                     }
