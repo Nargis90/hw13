@@ -14,6 +14,9 @@
                         array[j] = temp
                         println(array[j].toString() + " bolshe chem" + array[j - 1])
                         println(array.contentToString())
+
+                        println("for GIT")
+                        println("for GIT commit")
                     }
                 }
             }
