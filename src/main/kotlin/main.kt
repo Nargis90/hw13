@@ -17,6 +17,8 @@
 
                         println("for GIT")
                         println("for GIT commit")
+                        println("for GIT commit")
+                        println("for GIT commit")
                     }
                 }
             }
